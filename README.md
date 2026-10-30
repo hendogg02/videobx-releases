@@ -1,5 +1,7 @@
 # VideoBx
 
+![VideoBx main window](screenshot.png)
+
 VideoBx turns a web page into a broadcast video source on a Mac. It renders a page offscreen (with audio) and sends it out as:
 
 - **NDI** (video and audio)
